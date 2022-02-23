@@ -58,4 +58,4 @@ def delete_member():
 #create_table()
 # insert_member()
 #delete_member()
-#select_member()
+select_member()
